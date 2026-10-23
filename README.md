@@ -49,7 +49,7 @@ Proyek ini mendemonstrasikan konsep pemrograman fundamental, termasuk:
 - Input keyboard dan penanganan event.
 - Pergerakan objek game.
 - Deteksi kolisi (tabrakan) berbasis jarak dasar.
-- Pelacakan skor dan tingkat kesulitan yang meningkat seiring bertambahnya skor.
+- Pencatatan skor dan tingkat kesulitan yang meningkat seiring bertambahnya skor.
 
 Lembar penjelasan cara kerja kode juga disediakan untuk menjelaskan blok-blok kode utama dalam penjelasan yang sederhana.
 
